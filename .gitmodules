@@ -1,3 +1,15 @@
 [submodule "Browser/StarPage"]
 	path = Browser/StarPage
 	url = https://github.com/Yoshintame/StartPage
+[submodule "spicetify/themes/fluent"]
+	path = spicetify/themes/fluent
+	url = https://github.com/Yoshintame/spicetify-fluent-theme
+[submodule "steam/themes/fluent"]
+	path = steam/themes/fluent
+	url = https://github.com/purogamer/Fluent-for-Steam.git
+[submodule "better-discord/themes/fluent"]
+	path = better-discord/themes/fluent
+	url = https://github.com/Yoshintame/fluent-discord.git
+[submodule "ahk-scripts/scripts"]
+	path = ahk-scripts/scripts
+	url = https://github.com/Yoshintame/ahk-scripts.git
