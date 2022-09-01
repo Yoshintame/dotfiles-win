@@ -1,0 +1,3 @@
+[submodule "Browser/StarPage"]
+	path = Browser/StarPage
+	url = https://github.com/Yoshintame/StartPage
