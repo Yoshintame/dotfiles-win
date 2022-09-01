@@ -1,6 +1,6 @@
-[submodule "Browser/StarPage"]
-	path = Browser/StarPage
-	url = https://github.com/Yoshintame/StartPage
+[submodule "browser/start-page"]
+	path = browser/start-page
+	url = https://github.com/Yoshintame/start-page
 [submodule "spicetify/themes/fluent"]
 	path = spicetify/themes/fluent
 	url = https://github.com/Yoshintame/spicetify-fluent-theme
